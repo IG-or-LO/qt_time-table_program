@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fon_raspisanie.jpg</file>
+        <file>resources/fon_table_view.jpg</file>
+        <file>resources/icon_plus.png</file>
+        <file>resources/icon_plus(white).png</file>
+        <file>resources/icon_save.png</file>
+        <file>resources/icon_ok.png</file>
+        <file>resources/icon_cancel.png</file>
+    </qresource>
+</RCC>
